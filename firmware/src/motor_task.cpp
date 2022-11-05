@@ -97,6 +97,9 @@ void MotorTask::run() {
 
     bool calibrate = false;
 
+    // Test
+    // Serial.println(encoder.getSensorAngle());
+
     Serial.println("Press Y to run calibration");
     uint32_t t = millis();
     while (millis() - t < 3000) {
@@ -275,7 +278,7 @@ void MotorTask::run() {
         delay(2000);
     }
 
-    Serial.println(motor.zero_electric_angle);
+    //Serial.println(motor.zero_electric_angle);
 
     command.add('M', &doMotor, "foo");
     // command.add('D', &doDetents, "Detents");
@@ -455,4 +458,8 @@ void MotorTask::publish(const KnobState& state) {
     for (auto listener : listeners_) {
         xQueueOverwrite(listener, &state);
     }
+}
+
+float MotorTask::angle() {
+    return motor.shaft_angle;
 }

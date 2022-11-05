@@ -37,6 +37,8 @@ class MotorTask : public Task<MotorTask> {
 
         void addListener(QueueHandle_t queue);
 
+        float angle();
+
     protected:
         void run();
 

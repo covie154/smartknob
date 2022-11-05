@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../PlatformIO/PIO First Project"
+		},
+		{
+			"name": "firmware",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp"
+		}
+	}
+}

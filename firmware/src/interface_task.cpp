@@ -31,6 +31,7 @@ HX711 scale;
 Adafruit_VEML7700 veml = Adafruit_VEML7700();
 #endif
 
+/*
 static KnobConfig configs[] = {
     // int32_t num_positions;
     // int32_t position;
@@ -123,10 +124,49 @@ static KnobConfig configs[] = {
     },
 };
 
-InterfaceTask::InterfaceTask(const uint8_t task_core, MotorTask& motor_task, DisplayTask* display_task) : Task("Interface", 4048, 1, task_core), motor_task_(motor_task), display_task_(display_task) {
-    #if SK_DISPLAY
-        assert(display_task != nullptr);
-    #endif
+*/
+
+static KnobConfig configs[] = {
+    // int32_t num_positions;           // Self explanatory
+    // int32_t position;                // ??? Always 0 except for "fine values"??
+    // float position_width_radians;    // Position width: (degrees) * PI/180
+    // float detent_strength_unit;      // Detent strength; can't go above 0.4 on regular USB-C port
+    // float endstop_strength_unit;     // Default 1
+    // float snap_point;                // Default is 1.1, except for on/off config
+    // char descriptor[50];
+
+    {
+        0,
+        0,
+        7.2 * PI / 180,
+        0.2,
+        1,
+        1.1,
+        "50 PPR, Detent 0.2",
+    },
+    {
+        0,
+        0,
+        7.2 * PI / 180,
+        0,
+        1,
+        1.1,
+        "50 PPR, No detents",
+    },
+    {
+        1,
+        0,
+        60 * PI / 180,
+        0.01,
+        0.2,
+        1.1,
+        "Return-to-center",
+    }
+
+};
+
+InterfaceTask::InterfaceTask(const uint8_t task_core, MotorTask& motor_task, RETask* re_task) : Task("Interface", 4048, 1, task_core), motor_task_(motor_task), re_task_(re_task) {
+    assert(re_task != nullptr);
 }
 
 InterfaceTask::~InterfaceTask() {}
@@ -246,10 +286,12 @@ void InterfaceTask::run() {
         #if SK_ALS
             brightness = (uint16_t)CLAMP(lux_avg * 13000, (float)1280, (float)UINT16_MAX);
         #endif
-
+        
+        /* Don't confuse yourself please, unused now
         #if SK_DISPLAY
             display_task_->setBrightness(brightness); // TODO: apply gamma correction
         #endif
+        */
 
         #if SK_LEDS
             for (uint8_t i = 0; i < NUM_LEDS; i++) {
@@ -300,4 +342,9 @@ void InterfaceTask::changeConfig(bool next) {
     Serial.print(" -- ");
     Serial.println(configs[current_config_].descriptor);
     motor_task_.setConfig(configs[current_config_]);
+}
+
+void InterfaceTask::getConfig() {
+    Serial.print("Current config: ");
+    Serial.println(current_config_);
 }
