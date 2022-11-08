@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\covie\Local Documents\Git\smartknob\PCB_Scroller\Scroller1\Scroller1.kicad_sch</source>
+    <date>6/11/2022 10:04:57 pm</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Scroller One</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-10-27</date>
+        <source>Scroller1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="2208_1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b22f320a-08dc-4d41-a416-3b50b1ded9ab</tstamps>
+    </comp>
+    <comp ref="2208_2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>000cc6f2-0eda-4720-a193-372861ad02f2</tstamps>
+    </comp>
+    <comp ref="2208_3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8c213a6-92ed-4c50-954f-36366cf77d52</tstamps>
+    </comp>
+    <comp ref="2208_4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5d712c8-7a3d-464f-9a10-b05754e07f27</tstamps>
+    </comp>
+    <comp ref="3508_1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77effc71-25f7-4c3c-981b-622a1d55cbf2</tstamps>
+    </comp>
+    <comp ref="3508_2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01660eab-baa1-44d4-a104-743e9be0b32d</tstamps>
+    </comp>
+    <comp ref="3508_3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1957194c-573f-44bb-8c43-41d3ff367d44</tstamps>
+    </comp>
+    <comp ref="3508_4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08e1c543-197c-4279-8bcb-cd4c58c4e0c9</tstamps>
+    </comp>
+    <comp ref="6010_1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aba227c-6a6b-43b8-97ea-08b132057c47</tstamps>
+    </comp>
+    <comp ref="6010_2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecaa597e-bb72-45b3-8fac-46248bbe4d7c</tstamps>
+    </comp>
+    <comp ref="6010_3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c180594-5093-44ab-8f21-829183cb765e</tstamps>
+    </comp>
+    <comp ref="6010_4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e17fd585-e0c4-4a29-aed8-2521037cd994</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83012660-53c0-45f4-8dd2-fbd569d29ecb</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddf53f1a-81d4-41de-9da2-75cbae401143</tstamps>
+    </comp>
+    <comp ref="D0_0">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>745f8a4a-b62a-417e-b3f9-16ff4b8aee73</tstamps>
+    </comp>
+    <comp ref="D0_1">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3ee6568-b11e-4b4b-8e12-6cd120bf0d1f</tstamps>
+    </comp>
+    <comp ref="D0_2">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf809677-8f88-43bf-bfad-80217650f139</tstamps>
+    </comp>
+    <comp ref="D0_3">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a05fa165-b7b9-4c5d-bfb2-4ca093d8166c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>ZMDxx</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <datasheet>http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1</datasheet>
+      <libsource lib="Diode" part="ZMDxx" description="1000mW Zener Diode, MiniMELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b70408a7-a1f3-40ab-8c1c-f15e10e04f5e</tstamps>
+    </comp>
+    <comp ref="D1_0">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1e68960-207d-4e96-a8e8-726eb38fb62b</tstamps>
+    </comp>
+    <comp ref="D1_1">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>485cd1b5-912a-4378-9669-383c419a2d60</tstamps>
+    </comp>
+    <comp ref="D1_2">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6ef0b43-b558-4d02-bfc9-46568f454e03</tstamps>
+    </comp>
+    <comp ref="D1_3">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd094ef2-a742-461b-bc36-4b5aff0eb7a4</tstamps>
+    </comp>
+    <comp ref="D2_0">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a117421a-e305-4e84-972c-0e108be3de1a</tstamps>
+    </comp>
+    <comp ref="D2_1">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f532665f-8159-40b5-98a2-cfdb393c212b</tstamps>
+    </comp>
+    <comp ref="D2_2">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e032726b-c652-4ca0-9271-05d4ca25b80c</tstamps>
+    </comp>
+    <comp ref="D2_3">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dff3ad20-f99f-4a2c-807d-f9a5a8e8c6d8</tstamps>
+    </comp>
+    <comp ref="D3_0">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b038a0d9-dd51-4780-b89d-1c3c96f6120d</tstamps>
+    </comp>
+    <comp ref="D3_1">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83edc75d-7559-49ba-bba8-a5aa6cb11f01</tstamps>
+    </comp>
+    <comp ref="D3_2">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ebbd42d-1bfc-42ea-a569-bfecf2931bbe</tstamps>
+    </comp>
+    <comp ref="D3_3">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5250b1b-abce-415c-8eb6-f71eedd81d8e</tstamps>
+    </comp>
+    <comp ref="E6B2_1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71967cd5-863f-4cd4-a1b0-d9edde19a95a</tstamps>
+    </comp>
+    <comp ref="E6B2_2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cd315da-b5d8-4e1f-81a0-6c6f3104bddc</tstamps>
+    </comp>
+    <comp ref="ESP32">
+      <value>WeMos_S2_mini</value>
+      <footprint>Wemos S2 Mini:WEMOS_S2_mini</footprint>
+      <datasheet>https://www.wemos.cc/en/latest/s2/s2_mini.html</datasheet>
+      <libsource lib="Wemos S2 Mini (BETA)" part="WeMos_S2_mini" description="32-bit microcontroller module with WiFi"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2362a114-b5ab-416b-8951-d5040db97772</tstamps>
+    </comp>
+    <comp ref="MHole_1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ea03bbb-40e2-4566-9e47-8bf29447d68c</tstamps>
+    </comp>
+    <comp ref="MHole_2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc32aed-3402-4b6e-b1ee-9afccaa321d5</tstamps>
+    </comp>
+    <comp ref="MHole_3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207f3b04-5d05-4d5e-a65c-613b60a18274</tstamps>
+    </comp>
+    <comp ref="MHole_4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbd5314d-3ca0-4061-b4c2-be3c3555caa7</tstamps>
+    </comp>
+    <comp ref="MHole_5">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>488d14a4-542e-41f6-bde8-b10693cdb476</tstamps>
+    </comp>
+    <comp ref="MHole_6">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3c3a579-4782-4078-a553-67385e4e143c</tstamps>
+    </comp>
+    <comp ref="QMK1">
+      <value>Sparkfun_Pro_Micro</value>
+      <footprint>Arduino Pro Micro:Sparkfun_Pro_Micro</footprint>
+      <datasheet>https://www.sparkfun.com/products/12640</datasheet>
+      <libsource lib="Arduino Pro Micro" part="Sparkfun_Pro_Micro" description="Sparkfun Pro Micro"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f5ca6c0-eb43-425c-b2ed-6691bdb95fa6</tstamps>
+    </comp>
+    <comp ref="RM_1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7b11119-ea17-44aa-b4fe-471b11c290aa</tstamps>
+    </comp>
+    <comp ref="RM_2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898ba613-58ad-403a-9c4e-d9d71f0be1bf</tstamps>
+    </comp>
+    <comp ref="RS_1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88105df6-93e9-4263-8af3-640c3385c8eb</tstamps>
+    </comp>
+    <comp ref="RS_2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6db86c5d-d294-462b-a1b4-7861444d1046</tstamps>
+    </comp>
+    <comp ref="RT_1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccef4f45-00b3-480b-8f54-2b1ccd672e18</tstamps>
+    </comp>
+    <comp ref="RT_2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43f1ee21-9f4e-4a7d-9738-3aa54e987040</tstamps>
+    </comp>
+    <comp ref="RT_3">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27fee05d-de1f-43aa-8dac-0f2c0c8ac6fd</tstamps>
+    </comp>
+    <comp ref="RT_4">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de3164cb-d744-404a-be4d-8c8b98fd5d8c</tstamps>
+    </comp>
+    <comp ref="SW_0_0">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ff2b8da-bfcf-4b68-9b32-02872c995685</tstamps>
+    </comp>
+    <comp ref="SW_0_1">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ff24f7d-b00f-41a2-a019-8209af3a5f1e</tstamps>
+    </comp>
+    <comp ref="SW_0_2">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb06296e-0b09-49fe-a88f-87dca6e5846a</tstamps>
+    </comp>
+    <comp ref="SW_0_3">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a948cb07-6f09-4160-89e7-1f13a4784fa2</tstamps>
+    </comp>
+    <comp ref="SW_1_0">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84015a0d-00b2-4b3d-833d-272faea9677f</tstamps>
+    </comp>
+    <comp ref="SW_1_1">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84f6a074-547c-47b8-8d9e-630fb8f05d8d</tstamps>
+    </comp>
+    <comp ref="SW_1_2">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6839f455-4868-4945-9afe-a66158423d05</tstamps>
+    </comp>
+    <comp ref="SW_1_3">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>612894b0-e4f2-4539-9048-40badc519f83</tstamps>
+    </comp>
+    <comp ref="SW_2_0">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>938e9f3d-c377-4163-a0c4-e45d0f57a3bd</tstamps>
+    </comp>
+    <comp ref="SW_2_1">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f631160-ee20-4084-8e85-86fc62334d64</tstamps>
+    </comp>
+    <comp ref="SW_2_2">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b3286c5-38fa-46a4-a910-94845dc88904</tstamps>
+    </comp>
+    <comp ref="SW_2_3">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a845131b-8e84-47a4-b800-ec93571c134d</tstamps>
+    </comp>
+    <comp ref="SW_3_0">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38b98c8d-5ac3-44b5-a77d-efa1d39ca129</tstamps>
+    </comp>
+    <comp ref="SW_3_1">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27df40e2-c214-4e5b-8407-dea9c7a73840</tstamps>
+    </comp>
+    <comp ref="SW_3_2">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9434d3f3-2f70-41d8-9787-71528786beea</tstamps>
+    </comp>
+    <comp ref="SW_3_3">
+      <value>SW_SPST</value>
+      <footprint>Kailh Hotswap:Kailh_socket_MX</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b23fe9c6-ce8c-4f0f-b4e0-581d85022a18</tstamps>
+    </comp>
+    <comp ref="TMC1">
+      <value>TMC6300_BOB</value>
+      <footprint>TMC6300_BOB:TMC6300_BOB</footprint>
+      <datasheet>https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC6300-BOB_datasheet_rev1.00.pdf</datasheet>
+      <libsource lib="TMC6300_BOB" part="TMC6300_BOB" description="Breakout Board for TMC6300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0439f8a0-a60d-4705-a427-063670005d73</tstamps>
+    </comp>
+    <comp ref="UM1">
+      <value>MT6701</value>
+      <footprint>MT6701:SOIC-8</footprint>
+      <datasheet>http://img.ekeic.com/ekeic/5001592712907.pdf</datasheet>
+      <libsource lib="MT6701" part="MT6701" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67f9bcd2-bb5e-4cc8-82d7-9919a0679b87</tstamps>
+    </comp>
+    <comp ref="UVW1">
+      <value>FPC-6P</value>
+      <footprint>Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x06_Female" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Scroller1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6230ef9e-c196-4053-920d-589831945a82</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Arduino Pro Micro" part="Sparkfun_Pro_Micro">
+      <description>Sparkfun Pro Micro</description>
+      <docs>https://www.sparkfun.com/products/12640</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Sparkfun_Pro_Micro</field>
+        <field name="Footprint">Arduino:Sparkfun_Pro_Micro</field>
+        <field name="Datasheet">https://www.sparkfun.com/products/12640</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1/TX" type="bidirectional"/>
+        <pin num="2" name="D0/RX" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="D2" type="bidirectional"/>
+        <pin num="6" name="~D3" type="bidirectional"/>
+        <pin num="7" name="D4/A6" type="bidirectional"/>
+        <pin num="8" name="~D5" type="bidirectional"/>
+        <pin num="9" name="~D6/A7" type="bidirectional"/>
+        <pin num="10" name="D7" type="bidirectional"/>
+        <pin num="11" name="D8/A8" type="bidirectional"/>
+        <pin num="12" name="~D9/A9" type="bidirectional"/>
+        <pin num="13" name="~D10/A10" type="bidirectional"/>
+        <pin num="14" name="D16" type="bidirectional"/>
+        <pin num="15" name="D14" type="bidirectional"/>
+        <pin num="16" name="D15" type="bidirectional"/>
+        <pin num="17" name="D18/A0" type="bidirectional"/>
+        <pin num="18" name="D19/A1" type="bidirectional"/>
+        <pin num="19" name="D20/A2" type="bidirectional"/>
+        <pin num="20" name="D21/A3" type="bidirectional"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Female">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="ZMDxx">
+      <description>1000mW Zener Diode, MiniMELF</description>
+      <docs>http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1</docs>
+      <footprints>
+        <fp>D*MiniMELF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZMDxx</field>
+        <field name="Footprint">Diode_SMD:D_MiniMELF</field>
+        <field name="Datasheet">http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MT6701" part="MT6701">
+      <docs>http://img.ekeic.com/ekeic/5001592712907.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MT6701</field>
+        <field name="Footprint">MT6701:SOIC-8</field>
+        <field name="Datasheet">http://img.ekeic.com/ekeic/5001592712907.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="MODE" type="input"/>
+        <pin num="3" name="OUT" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="PUSH" type="input"/>
+        <pin num="6" name="A/SDA" type="bidirectional"/>
+        <pin num="7" name="B/SCL" type="bidirectional"/>
+        <pin num="8" name="Z/CSn" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TMC6300_BOB" part="TMC6300_BOB">
+      <description>Breakout Board for TMC6300</description>
+      <docs>https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC6300-BOB_datasheet_rev1.00.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TMC6300_BOB</field>
+        <field name="Footprint">TMC6300_BOB:TMC6300_BOB</field>
+        <field name="Datasheet">https://www.trinamic.com/fileadmin/assets/Products/Eval_Documents/TMC6300-BOB_datasheet_rev1.00.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+VCC_IO" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="UH_in" type="input"/>
+        <pin num="4" name="UL_in" type="input"/>
+        <pin num="5" name="VH_in" type="input"/>
+        <pin num="6" name="VL_in" type="input"/>
+        <pin num="7" name="WH_in" type="input"/>
+        <pin num="8" name="WL_in" type="input"/>
+        <pin num="9" name="+VBAT" type="power_in"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="W" type="output"/>
+        <pin num="13" name="V" type="output"/>
+        <pin num="14" name="W" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="DIAG" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Wemos S2 Mini (BETA)" part="WeMos_S2_mini">
+      <description>32-bit microcontroller module with WiFi</description>
+      <docs>https://www.wemos.cc/en/latest/s2/s2_mini.html</docs>
+      <footprints>
+        <fp>WEMOS*S2*mini*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WeMos_S2_mini</field>
+        <field name="Footprint">Module:WEMOS_S2_mini</field>
+        <field name="Datasheet">https://www.wemos.cc/en/latest/s2/s2_mini.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GPIO3" type="bidirectional"/>
+        <pin num="3" name="GPIO5" type="bidirectional"/>
+        <pin num="4" name="GPIO7" type="bidirectional"/>
+        <pin num="5" name="GPIO9" type="bidirectional"/>
+        <pin num="6" name="GPIO11" type="bidirectional"/>
+        <pin num="7" name="GPIO12" type="bidirectional"/>
+        <pin num="8" name="3V3" type="power_out"/>
+        <pin num="9" name="VBUS" type="power_out"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="XTAL_32K_N" type="input"/>
+        <pin num="12" name="DAC_2" type="output"/>
+        <pin num="13" name="GPIO33" type="bidirectional"/>
+        <pin num="14" name="GPIO35" type="bidirectional"/>
+        <pin num="15" name="GPIO37" type="bidirectional"/>
+        <pin num="16" name="MTCK" type="output"/>
+        <pin num="17" name="GPIO1" type="bidirectional"/>
+        <pin num="18" name="GPIO2" type="bidirectional"/>
+        <pin num="19" name="GPIO4" type="bidirectional"/>
+        <pin num="20" name="GPIO6" type="bidirectional"/>
+        <pin num="21" name="GPIO8" type="bidirectional"/>
+        <pin num="22" name="GPIO10" type="bidirectional"/>
+        <pin num="23" name="GPIO13" type="bidirectional"/>
+        <pin num="24" name="GPIO14" type="bidirectional"/>
+        <pin num="25" name="XTAL_32K_P" type="output"/>
+        <pin num="26" name="GND" type="passive"/>
+        <pin num="27" name="DAC_1" type="output"/>
+        <pin num="28" name="GPIO21" type="bidirectional"/>
+        <pin num="29" name="GPIO34" type="bidirectional"/>
+        <pin num="30" name="GPIO36" type="bidirectional"/>
+        <pin num="31" name="GPIO38" type="bidirectional"/>
+        <pin num="32" name="MTDO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="CAP">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Arduino Pro Micro">
+      <uri>C:/Users/covie/OneDrive/Documents/KiCad/6.0/symbols/kicad-lib-arduino/Arduino.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="MT6701">
+      <uri>C:\Users\covie\OneDrive\Documents\KiCad\6.0\symbols/MT6701.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="TMC6300_BOB">
+      <uri>C:\Users\covie\OneDrive\Documents\KiCad\6.0\symbols/TMC6300_BOB.kicad_sym</uri>
+    </library>
+    <library logical="Wemos S2 Mini (BETA)">
+      <uri>C:/Users/covie/OneDrive/Documents/KiCad/6.0/symbols/MCU_S2_Mini.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="ESP32" pin="8" pinfunction="3V3" pintype="power_out"/>
+      <node ref="RT_1" pin="1" pintype="passive"/>
+      <node ref="RT_2" pin="1" pintype="passive"/>
+      <node ref="RT_3" pin="1" pintype="passive"/>
+      <node ref="RT_4" pin="1" pintype="passive"/>
+      <node ref="TMC1" pin="1" pinfunction="+VCC_IO" pintype="input"/>
+      <node ref="UM1" pin="1" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="ESP32" pin="9" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="QMK1" pin="21" pinfunction="VCC" pintype="power_in"/>
+      <node ref="TMC1" pin="9" pinfunction="+VBAT" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Col 1">
+      <node ref="QMK1" pin="16" pinfunction="D15" pintype="bidirectional"/>
+      <node ref="SW_0_0" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_1_0" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_2_0" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_3_0" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="4" name="/Col 2">
+      <node ref="QMK1" pin="15" pinfunction="D14" pintype="bidirectional"/>
+      <node ref="SW_0_1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_1_1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_2_1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_3_1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="5" name="/Col 3">
+      <node ref="QMK1" pin="14" pinfunction="D16" pintype="bidirectional"/>
+      <node ref="SW_0_2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_1_2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_2_2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_3_2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="6" name="/Col 4">
+      <node ref="QMK1" pin="13" pinfunction="~D10/A10" pintype="bidirectional"/>
+      <node ref="SW_0_3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_1_3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_2_3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW_3_3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="7" name="/Row 1">
+      <node ref="D0_0" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D0_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D0_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D0_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="QMK1" pin="20" pinfunction="D21/A3" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/Row 2">
+      <node ref="D1_0" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D1_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="QMK1" pin="19" pinfunction="D20/A2" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/Row 3">
+      <node ref="D2_0" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="QMK1" pin="18" pinfunction="D19/A1" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Row 4">
+      <node ref="D3_0" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="QMK1" pin="17" pinfunction="D18/A0" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/UH_In">
+      <node ref="ESP32" pin="31" pinfunction="GPIO38" pintype="bidirectional"/>
+      <node ref="TMC1" pin="3" pinfunction="UH_in" pintype="input"/>
+    </net>
+    <net code="12" name="/UL_In">
+      <node ref="ESP32" pin="15" pinfunction="GPIO37" pintype="bidirectional"/>
+      <node ref="TMC1" pin="4" pinfunction="UL_in" pintype="input"/>
+    </net>
+    <net code="13" name="/U_Out">
+      <node ref="TMC1" pin="14" pinfunction="W" pintype="output"/>
+      <node ref="UVW1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="UVW1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="14" name="/VH_In">
+      <node ref="ESP32" pin="30" pinfunction="GPIO36" pintype="bidirectional"/>
+      <node ref="TMC1" pin="5" pinfunction="VH_in" pintype="input"/>
+    </net>
+    <net code="15" name="/VL_In">
+      <node ref="ESP32" pin="14" pinfunction="GPIO35" pintype="bidirectional"/>
+      <node ref="TMC1" pin="6" pinfunction="VL_in" pintype="input"/>
+    </net>
+    <net code="16" name="/V_Out">
+      <node ref="TMC1" pin="13" pinfunction="V" pintype="output"/>
+      <node ref="UVW1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="UVW1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="17" name="/WH_In">
+      <node ref="ESP32" pin="29" pinfunction="GPIO34" pintype="bidirectional"/>
+      <node ref="TMC1" pin="7" pinfunction="WH_in" pintype="input"/>
+    </net>
+    <net code="18" name="/WL_In">
+      <node ref="ESP32" pin="13" pinfunction="GPIO33" pintype="bidirectional"/>
+      <node ref="TMC1" pin="8" pinfunction="WL_in" pintype="input"/>
+    </net>
+    <net code="19" name="/W_Out">
+      <node ref="TMC1" pin="12" pinfunction="W" pintype="output"/>
+      <node ref="UVW1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="UVW1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="20" name="CSn">
+      <node ref="ESP32" pin="19" pinfunction="GPIO4" pintype="bidirectional"/>
+      <node ref="RT_2" pin="2" pintype="passive"/>
+      <node ref="UM1" pin="8" pinfunction="Z/CSn" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="ESP32" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="ESP32" pin="26" pinfunction="GND" pintype="passive"/>
+      <node ref="QMK1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="QMK1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="QMK1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="RM_2" pin="2" pintype="passive"/>
+      <node ref="RS_2" pin="2" pintype="passive"/>
+      <node ref="TMC1" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="TMC1" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="TMC1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="TMC1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="UM1" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="22" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="UM1" pin="3" pinfunction="OUT" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D0_0-Pad2)">
+      <node ref="D0_0" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_0_0" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D0_1-Pad2)">
+      <node ref="D0_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_0_1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D0_2-Pad2)">
+      <node ref="D0_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_0_2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D0_3-Pad2)">
+      <node ref="D0_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_0_3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D1_0-Pad2)">
+      <node ref="D1_0" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_1_0" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D1_1-Pad2)">
+      <node ref="D1_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_1_1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D1_2-Pad2)">
+      <node ref="D1_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_1_2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D1_3-Pad2)">
+      <node ref="D1_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_1_3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D2_0-Pad2)">
+      <node ref="D2_0" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_2_0" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D2_1-Pad2)">
+      <node ref="D2_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_2_1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D2_2-Pad2)">
+      <node ref="D2_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_2_2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D2_3-Pad2)">
+      <node ref="D2_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_2_3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D3_0-Pad2)">
+      <node ref="D3_0" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_3_0" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D3_1-Pad2)">
+      <node ref="D3_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_3_1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D3_2-Pad2)">
+      <node ref="D3_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_3_2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3_3-Pad2)">
+      <node ref="D3_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW_3_3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(ESP32-Pad6)">
+      <node ref="ESP32" pin="6" pinfunction="GPIO11" pintype="bidirectional"/>
+      <node ref="RM_1" pin="2" pintype="passive"/>
+      <node ref="RM_2" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(ESP32-Pad16)">
+      <node ref="ESP32" pin="16" pinfunction="MTCK" pintype="output"/>
+      <node ref="QMK1" pin="2" pinfunction="D0/RX" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(ESP32-Pad17)">
+      <node ref="ESP32" pin="17" pinfunction="GPIO1" pintype="bidirectional"/>
+      <node ref="RS_1" pin="2" pintype="passive"/>
+      <node ref="RS_2" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(QMK1-Pad1)">
+      <node ref="QMK1" pin="1" pinfunction="D1/TX" pintype="bidirectional"/>
+      <node ref="RS_1" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(QMK1-Pad11)">
+      <node ref="QMK1" pin="11" pinfunction="D8/A8" pintype="bidirectional"/>
+      <node ref="RM_1" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(RT_1-Pad2)">
+      <node ref="RT_1" pin="2" pintype="passive"/>
+      <node ref="UM1" pin="2" pinfunction="MODE" pintype="input"/>
+    </net>
+    <net code="45" name="SCL">
+      <node ref="ESP32" pin="23" pinfunction="GPIO13" pintype="bidirectional"/>
+      <node ref="RT_3" pin="2" pintype="passive"/>
+      <node ref="UM1" pin="7" pinfunction="B/SCL" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="SDA">
+      <node ref="ESP32" pin="7" pinfunction="GPIO12" pintype="bidirectional"/>
+      <node ref="RT_4" pin="2" pintype="passive"/>
+      <node ref="UM1" pin="6" pinfunction="A/SDA" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(ESP32-Pad1)">
+      <node ref="ESP32" pin="1" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(ESP32-Pad2)">
+      <node ref="ESP32" pin="2" pinfunction="GPIO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(ESP32-Pad3)">
+      <node ref="ESP32" pin="3" pinfunction="GPIO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(ESP32-Pad4)">
+      <node ref="ESP32" pin="4" pinfunction="GPIO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(ESP32-Pad5)">
+      <node ref="ESP32" pin="5" pinfunction="GPIO9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(ESP32-Pad11)">
+      <node ref="ESP32" pin="11" pinfunction="XTAL_32K_N" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(ESP32-Pad12)">
+      <node ref="ESP32" pin="12" pinfunction="DAC_2" pintype="output+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(ESP32-Pad18)">
+      <node ref="ESP32" pin="18" pinfunction="GPIO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(ESP32-Pad20)">
+      <node ref="ESP32" pin="20" pinfunction="GPIO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(ESP32-Pad21)">
+      <node ref="ESP32" pin="21" pinfunction="GPIO8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(ESP32-Pad22)">
+      <node ref="ESP32" pin="22" pinfunction="GPIO10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(ESP32-Pad24)">
+      <node ref="ESP32" pin="24" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(ESP32-Pad25)">
+      <node ref="ESP32" pin="25" pinfunction="XTAL_32K_P" pintype="output+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(ESP32-Pad27)">
+      <node ref="ESP32" pin="27" pinfunction="DAC_1" pintype="output+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(ESP32-Pad28)">
+      <node ref="ESP32" pin="28" pinfunction="GPIO21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(ESP32-Pad32)">
+      <node ref="ESP32" pin="32" pinfunction="MTDO" pintype="output+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(QMK1-Pad5)">
+      <node ref="QMK1" pin="5" pinfunction="D2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(QMK1-Pad6)">
+      <node ref="QMK1" pin="6" pinfunction="~D3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(QMK1-Pad7)">
+      <node ref="QMK1" pin="7" pinfunction="D4/A6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(QMK1-Pad8)">
+      <node ref="QMK1" pin="8" pinfunction="~D5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(QMK1-Pad9)">
+      <node ref="QMK1" pin="9" pinfunction="~D6/A7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(QMK1-Pad10)">
+      <node ref="QMK1" pin="10" pinfunction="D7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(QMK1-Pad12)">
+      <node ref="QMK1" pin="12" pinfunction="~D9/A9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(QMK1-Pad22)">
+      <node ref="QMK1" pin="22" pinfunction="RST" pintype="input+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(QMK1-Pad24)">
+      <node ref="QMK1" pin="24" pinfunction="RAW" pintype="power_in+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(TMC1-Pad16)">
+      <node ref="TMC1" pin="16" pinfunction="DIAG" pintype="output+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(UM1-Pad5)">
+      <node ref="UM1" pin="5" pinfunction="PUSH" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
