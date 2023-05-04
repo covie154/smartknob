@@ -1,0 +1,79 @@
+; PlatformIO Project Configuration File
+;
+;   Build options: build flags, source filter
+;   Upload options: custom upload port, speed and extra flags
+;   Library options: dependencies, extra library storages
+;   Advanced options: extra scripting
+;
+; Please visit documentation for the other options and examples
+; https://docs.platformio.org/page/projectconf.html
+
+[platformio]
+default_envs = view
+
+[base_config]
+platform = espressif32
+framework = arduino
+monitor_speed = 115200
+monitor_flags = 
+	--eol=CRLF
+	--echo
+	--filter=esp32_exception_decoder
+lib_deps = 
+	askuric/Simple FOC@^2.2.3
+	infineon/TLV493D-Magnetic-Sensor @ 1.0.3
+	bxparks/AceButton @ 1.9.1
+build_flags = 
+	-DCORE_DEBUG_LEVEL=ARDUHAL_LOG_LEVEL_DEBUG
+
+[env:view]
+extends = base_config
+board = lolin_s2_mini
+lib_deps = 
+	${base_config.lib_deps}
+	bodmer/TFT_eSPI@2.4.25
+	fastled/FastLED @ 3.5.0
+	bogde/HX711 @ 0.7.5
+	adafruit/Adafruit VEML7700 Library @ 1.1.1
+	
+build_flags = 
+	${base_config.build_flags}
+	-DSK_DISPLAY=0
+	-DSK_LEDS=0
+	-DSENSOR_MT6701=1
+	-DSK_STRAIN=0
+	-DSK_INVERT_ROTATION=1
+	-DSK_ALS=0
+	
+	-DPIN_UH=38
+	-DPIN_UL=37
+	-DPIN_VH=36
+	-DPIN_VL=35
+	-DPIN_WH=34
+	-DPIN_WL=33
+	-DPIN_BUTTON_NEXT=11
+	-DPIN_BUTTON_PREV=-1
+	-DPIN_MT_DATA=4
+	-DPIN_MT_CLOCK=12
+	-DPIN_MT_CSN=13
+	-DPIN_SERIAL_TX=16
+	-DPIN_SERIAL_RX=17
+	
+	-DPIN_LED_DATA=7
+	-DPIN_LCD_BACKLIGHT=19
+	
+	
+	-DUSER_SETUP_LOADED=1
+	-DGC9A01_DRIVER=0
+	-DCGRAM_OFFSET=1
+	-DLOAD_GLCD=1
+	-DLOAD_GFXFF=1
+	-DSPI_FREQUENCY=40000000
+	
+	
+	-DFASTLED_UNUSABLE_PIN_MASK=0x100740LL
+	
+	-DSOC_GPIO_VALID_GPIO_MASK=0xFF0EFFFFFF
+	-DSOC_GPIO_VALID_OUTPUT_GPIO_MASK=0x30EFFFFFF
+monitor_filters = send_on_enter
+monitor_echo = yes

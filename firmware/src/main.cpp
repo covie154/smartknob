@@ -28,6 +28,7 @@ static QueueHandle_t knob_state_debug_queue;
 
 void setup() {
   Serial.begin(115200);
+  Serial2.begin(115200, SERIAL_8N1, PIN_SERIAL_RX, PIN_SERIAL_TX);
 
   motor_task.begin();
   interface_task.begin();

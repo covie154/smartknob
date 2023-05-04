@@ -3,10 +3,6 @@
 		{
 			"name": "firmware",
 			"path": ".."
-		},
-		{
-			"name": "Blink Sketch",
-			"path": "../../../../../OneDrive/Documents/PlatformIO/Projects/Blink Sketch"
 		}
 	],
 	"settings": {

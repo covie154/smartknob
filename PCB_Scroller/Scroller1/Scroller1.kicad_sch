@@ -2647,7 +2647,7 @@
     (uuid 6230ef9e-c196-4053-920d-589831945a82)
     (property "Reference" "UVW1" (id 0) (at 86.36 147.32 90))
     (property "Value" "FPC-6P" (id 1) (at 86.36 149.86 90))
-    (property "Footprint" "Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal" (id 2) (at 87.63 144.78 0)
+    (property "Footprint" "Connector_FFC-FPC:Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal" (id 2) (at 87.63 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 87.63 144.78 0)
@@ -3954,7 +3954,7 @@
       (reference "UM1") (unit 1) (value "MT6701") (footprint "MT6701:SOIC-8")
     )
     (path "/6230ef9e-c196-4053-920d-589831945a82"
-      (reference "UVW1") (unit 1) (value "FPC-6P") (footprint "Connector_FFC-FPC:Molex_200528-0060_1x06-1MP_P1.00mm_Horizontal")
+      (reference "UVW1") (unit 1) (value "FPC-6P") (footprint "Connector_FFC-FPC:Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal")
     )
   )
 )

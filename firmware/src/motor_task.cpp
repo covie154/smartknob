@@ -98,7 +98,14 @@ void MotorTask::run() {
     bool calibrate = false;
 
     // Test
-    // Serial.println(encoder.getSensorAngle());
+    /*
+    #if PIN_BUTTON_CAL >= 34
+        pinMode(PIN_BUTTON_CAL, INPUT);
+    #else
+        pinMode(PIN_BUTTON_CAL, INPUT_PULLUP);
+    #endif
+    AceButton button_cal((uint8_t) PIN_BUTTON_CAL);
+    button_cal.getButtonConfig()->setIEventHandler(this);*/
 
     Serial.println("Press Y to run calibration");
     uint32_t t = millis();
@@ -108,7 +115,13 @@ void MotorTask::run() {
             break;
         }
         delay(10);
+        // Let's short circuit the thing ok
+        //delay(100);
+        //calibrate = true;
+        break;
     }
+    
+
     if (calibrate) {
         motor.controller = MotionControlType::angle_openloop;
         motor.pole_pairs = 1;
