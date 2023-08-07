@@ -139,7 +139,7 @@ static KnobConfig configs[] = {
         0,
         0,
         7.2 * PI / 180,
-        0.2,
+        0.4,
         1,
         1.1,
         "50 PPR, Detent 0.2",
@@ -152,7 +152,10 @@ static KnobConfig configs[] = {
         1,
         1.1,
         "50 PPR, No detents",
-    },
+    }
+};
+
+/*
     {
         1,
         0,
@@ -162,8 +165,7 @@ static KnobConfig configs[] = {
         1.1,
         "Return-to-center",
     }
-
-};
+*/
 
 InterfaceTask::InterfaceTask(const uint8_t task_core, MotorTask& motor_task, RETask* re_task) : Task("Interface", 4048, 1, task_core), motor_task_(motor_task), re_task_(re_task) {
     assert(re_task != nullptr);
